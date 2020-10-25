@@ -1,1 +1,1 @@
-web: python P.py
+web: python fibo.py.py
